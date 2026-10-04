@@ -1,3 +1,5 @@
+> **Archived.** This repo moved to [RLASAF12/agent-starters](https://github.com/RLASAF12/agent-starters/tree/main/team-context-template) (folder `team-context-template/`, full history preserved). Archived 2026-10-04.
+
 # Team Context
 
 > A Git repo that teaches Claude about your team, so every session starts with a teammate instead of a stranger.
